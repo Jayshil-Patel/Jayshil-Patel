@@ -17,3 +17,6 @@ Skills: XML/ c / SQLite / python / Java / JSON
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayshil-Patel)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jayshil-Patel)](https://github.com/anuraghazra/github-readme-stats)
