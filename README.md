@@ -20,3 +20,5 @@ I am currently learning Java and planning on pursuing web development, still, th
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayshil-Patel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://gitwar.herokuapp.com/badge?username=Jayshil-Patel)
