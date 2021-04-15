@@ -21,3 +21,5 @@ I am currently learning Java and planning on pursuing web development, still, th
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayshil-Patel&hide=contribs,prs,issues&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayshil-Patel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![HitCount](http://hits.dwyl.com/Jayshil-Patel/Jayshil-Patel.svg)](http://hits.dwyl.com/Jayshil-Patel/Jayshil-Patel)
