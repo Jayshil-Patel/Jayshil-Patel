@@ -22,4 +22,4 @@ I am currently learning Java and planning on pursuing web development, still, th
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayshil-Patel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![HitCount](http://hits.dwyl.com/Jayshil-Patel/Jayshil-Patel.svg)](http://hits.dwyl.com/Jayshil-Patel/Jayshil-Patel)
+	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
