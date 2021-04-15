@@ -20,23 +20,3 @@ I am currently learning Java and planning on pursuing web development, still, th
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayshil-Patel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--START_SECTION:waka-->
-
-name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.b9c117b7-4a42-4d4c-aa36-fd3301c91636 }}
-          GH_TOKEN: ${{ secrets.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 
-          <!--END_SECTION:waka-->
