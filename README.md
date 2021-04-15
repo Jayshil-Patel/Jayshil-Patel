@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jayshil Patel
 #### I am curretly pursuing B.Tech 
-![I am curretly pursuing B.Tech ](https://www.linkedin.com/in/jayshil-patel-607819171?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlvWP5tLEQoOrPQaP8B3qmg%3D%3D)
+(https://www.linkedin.com/in/jayshil-patel-607819171?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlvWP5tLEQoOrPQaP8B3qmg%3D%3D)
 
 I am currently learning Java and planning on pursuing web development, still, there is a lot to learn!!
 
