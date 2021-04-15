@@ -14,4 +14,6 @@ Skills: XML/ c / SQLite / python / Java / JSON
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayshil-Patel&show_icons=true&theme=synthwave)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayshil-Patel)](https://github.com/anuraghazra/github-readme-stats)
