@@ -14,7 +14,7 @@ I am currently learning Java and planning on pursuing web development, still, th
 - 🔭 I’m currently working on this page. 
 
 
-![](https://komarev.com/ghpvc/?username=Jayshil-Patel&color=green)
+![](https://komarev.com/ghpvc/?username=Jayshil-Patel&color=lightgrey)
 
 
 
