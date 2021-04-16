@@ -18,6 +18,5 @@
 > [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whitec)](https://en.wikipedia.org/wiki/C_(programming_language))
 > [![IJ](https://github.com/Jayshil-Patel/Jayshil-Patel/blob/main/Icons/IJ_ICON.png)](https://en.wikipedia.org/wiki/File:IntelliJ_IDEA_Icon.svg)
 
-
 ## Contact Info
 >[![Whats app link](link to image on GH)](link to your URL)
