@@ -3,12 +3,12 @@ I am curretly pursuing B.Tech
 I am currently learning Java and planning on pursuing web development, still, there is a lot to learn!!
 
 ## Skills
-*XML 
-*c
-*SQLite
-*python
-*Java 
-*JSON
+>*XML 
+>*c
+>*SQLite
+>*python
+>*Java 
+>*JSON
 
 
 - 🔭 I’m currently working on this page. 
