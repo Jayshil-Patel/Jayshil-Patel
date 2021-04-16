@@ -18,7 +18,7 @@
 > [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whitec)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 ## Tools and Technologies
->[![Intellij](https://img.shields.io/badge/IntelliJ_Idea-100000?style=for-the-badge&logo=IntelliJ_Idea&logoColor=white)](link to your URL)
+>[![Intellij](https://img.shields.io/badge/IntelliJ_Idea-003168?style=for-the-badge&logo=IntelliJ_Idea&logoColor=white)](link to your URL)
 >[![Pycharm](https://img.shields.io/badge/PyCharm-00C300?style=for-the-badge&logo=PyCharm&logoColor=white)](link to your URL)
 >[![VsCode](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](link to your URL)
 >[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](link to your URL)
