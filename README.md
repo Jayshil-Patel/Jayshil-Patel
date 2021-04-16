@@ -1,6 +1,7 @@
 # Hi there 👋, my name is Jayshil Patel
->I am curretly pursuing B.Tech 
->I am currently learning Java and planning on pursuing web development, still, there is a lot to learn!!
+>I am currently pursuing B.Tech 
+>
+>I am currently learning Java and planning on pursuing web development, and plan to learn HTML CSS and Javascript in near furute, there is a lot to learn!!
 
 ## Profile Stats 
 ![](https://komarev.com/ghpvc/?username=Jayshil-Patel&color=blue)
