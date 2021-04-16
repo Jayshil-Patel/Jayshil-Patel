@@ -16,6 +16,7 @@
 > [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 > [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://guides.github.com/features/mastering-markdown/)
 > [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whitec)](https://en.wikipedia.org/wiki/C_(programming_language))
+> [![intellij](https://github.com/Jayshil-Patel/Jayshil-Patel/blob/main/intellijidea.svg)](https://www.youtube.com/watch?v=7yh9i0PAjck)
 
 
 ## Contact Info
