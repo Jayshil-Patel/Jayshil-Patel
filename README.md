@@ -15,7 +15,8 @@
 > [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/)
 > [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 > [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://guides.github.com/features/mastering-markdown/)
-> [![name](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whitec)](https://en.wikipedia.org/wiki/C_(programming_language))
+> [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whitec)](https://en.wikipedia.org/wiki/C_(programming_language))
+> [![IJ](https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg)](https://en.wikipedia.org/wiki/File:IntelliJ_IDEA_Icon.svg)
 
 
 ## Contact Info
