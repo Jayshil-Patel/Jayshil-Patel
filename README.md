@@ -12,9 +12,9 @@
 
 ## Skills
 > [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-> [![Java](link to image on GH)](https://www.oracle.com/java/technologies/)
-> [![SQLite](link to image on GH)](https://www.sqlite.org/index.html)
-> [![Markdown](link to image on GH)](https://guides.github.com/features/mastering-markdown/)
+> [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/)
+> [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+> [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://guides.github.com/features/mastering-markdown/)
 > 
 
 ## Contact Info
