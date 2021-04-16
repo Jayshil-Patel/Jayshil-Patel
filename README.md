@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Jayshil Patel
-I am curretly pursuing B.Tech 
-I am currently learning Java and planning on pursuing web development, still, there is a lot to learn!!
+>I am curretly pursuing B.Tech 
+>I am currently learning Java and planning on pursuing web development, still, there is a lot to learn!!
 
 ## Skills
 >*XML 
