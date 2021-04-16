@@ -25,4 +25,4 @@
 >[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayshil-Patel)
 
 #### testing
-[![test badge](https://img.shields.io/badge/IntelliJ Idea-100000?style=for-the-badge&logo=IntelliJ Idea&logoColor=white)](https://www.youtube.com/watch?v=JEYY4pBdC84&list=PLgwJf8NK-2e7tzLIDL4aXUbtRFY3ykmkT&index=2)
+[![test badge](https://img.shields.io/badge/IntelliJ_Idea-100000?style=for-the-badge&logo=IntelliJ_Idea&logoColor=white)](https://www.youtube.com/watch?v=JEYY4pBdC84&list=PLgwJf8NK-2e7tzLIDL4aXUbtRFY3ykmkT&index=2)
