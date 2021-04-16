@@ -17,7 +17,7 @@
 > [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://guides.github.com/features/mastering-markdown/)
 > [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whitec)](https://en.wikipedia.org/wiki/C_(programming_language))
 > [![IntelliJ Idea](https://github.com/Jayshil-Patel/Jayshil-Patel/blob/main/Icons/IJ_ICON.png)](https://www.jetbrains.com/idea/)
-> [![PyCharm](https://github.com/Jayshil-Patel/Jayshil-Patel/blob/main/Icons/PC_ICON.png)](https://www.jetbrains.com/pycharm/)
+> [![PyCharm](https://github.com/Jayshil-Patel/Jayshil-Patel/blob/main/Icons/IJ_ICON.png)](https://www.jetbrains.com/pycharm/)
 
 ## Contact Info
 >[![Whats app link](link to image on GH)](link to your URL)
