@@ -2,7 +2,7 @@
 >I am curretly pursuing B.Tech 
 >I am currently learning Java and planning on pursuing web development, still, there is a lot to learn!!
 
-##Profile Stats 
+## Profile Stats 
 ![](https://komarev.com/ghpvc/?username=Jayshil-Patel&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayshil-Patel&hide=contribs,prs,issues)
