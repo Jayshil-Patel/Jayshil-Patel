@@ -4,9 +4,9 @@
 >I want to pursue my career as a web developer and planing to learn HTML, CSS, and Javascript in near future
 
 ## Profile Stats 
->![](https://komarev.com/ghpvc/?username=Jayshil-Patel&color=blue)
+>![Profile visits](https://komarev.com/ghpvc/?username=Jayshil-Patel&color=blue)
 
->![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayshil-Patel&hide=contribs,prs,issues&theme=tokyonight)
+>![Jayshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayshil-Patel&hide=contribs,prs,issues&theme=tokyonight)
 
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayshil-Patel&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -16,8 +16,8 @@
 > [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 > [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://guides.github.com/features/mastering-markdown/)
 > [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whitec)](https://en.wikipedia.org/wiki/C_(programming_language))
->[![Intellij](link to image on GH)](link to your URL)
->[![PyCharm](link to image on GH)](link to your URL)
+>[![Intellij](https://github.com/Jayshil-Patel/Jayshil-Patel/blob/main/Icons/IJ.png)](link to your URL)
+>[![PyCharm](link to image on GH)](https://www.jetbrains.com/idea/)
 >[![name](link to image on GH)](link to your URL)
 
 ## Contact Info
