@@ -8,7 +8,7 @@
 
 >![Jayshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayshil-Patel&hide=contribs,prs,issues&theme=tokyonight)
 
->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayshil-Patel&layout=compact&theme=tokyonight&hide=Makefile&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayshil-Patel&layout=compact&theme=tokyonight&hide=Makefile&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 > [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
