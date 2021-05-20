@@ -1,7 +1,7 @@
 # Hi there 👋, my name is Jayshil Patel and I love to code
 
 > I am currently pursuing B.Tech
-> I am looking forward to learn JavaScript, django and flask and probably learn flutter/dart and swift in near future!!
+> I am looking forward to learn JavaScript, django and flask and probably learn flutter/dart and swift in near future!
 
 ## Profile Stats
 
