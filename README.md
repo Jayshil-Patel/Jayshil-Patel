@@ -27,6 +27,7 @@
 > [![Pycharm](https://img.shields.io/badge/PyCharm-00C300?style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/) 
 > [![VsCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual_Studio_Code&logoColor=white)](https://code.visualstudio.com/) 
 > [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/en/software)
+> [![Git]](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/downloads)
 
 ## Contact Info
 
