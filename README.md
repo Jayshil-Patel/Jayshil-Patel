@@ -9,7 +9,7 @@
 
 > ![Jayshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayshil-Patel&hide=contribs,prs,issues&theme=tokyonight)
 
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayshil-Patel&layout=compact&theme=tokyonight&hide=Makefile&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayshil-Patel&layout=compact&theme=tokyonight&hide=Makefile&langs_count=10?exclude_repo=Xilinx-Verilog)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 
