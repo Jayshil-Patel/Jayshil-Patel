@@ -1,7 +1,9 @@
 # Hi there 👋, my name is Jayshil Patel and I love to code
 
 > I am currently pursuing B.Tech
+> 
 > I am looking forward to gaining some work experience in the Web Development
+> 
 > Constantly upgrading myself compels me to add different skills to my arsenal, hence, along the course of time I will be upgrading my knowledge of different stacks and learn back end development 
 
 ## Profile Stats
