@@ -35,7 +35,7 @@
 <!-- > [![Git]](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/downloads) -->
 
 # Recent Activity
-[![Jayshil's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jayshil-Patel&custom_title=Jayshil%20recent%20activity&hide_border=true&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jayshil's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jayshil-Patel&custom_title=Jayshil's%20recent%20activity&hide_border=true&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## Contact Info
