@@ -34,6 +34,10 @@
 > [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/downloads)
 <!-- > [![Git]](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/downloads) -->
 
+# Recent Activity
+[![Jayshil's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jayshil-Patel&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## Contact Info
 
 > [![Whats app link](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918141487230) 
