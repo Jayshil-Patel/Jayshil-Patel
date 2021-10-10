@@ -14,6 +14,14 @@
 
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayshil-Patel&layout=compact&theme=tokyonight&hide=Makefile&langs_count=10&exclude_repo=Xilinx-Verilog)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"> 
+<div align="center">
+  <h4>🏆 Github Profile Trophies</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=Jayshil-Patel&theme=monokai&row=1&no-frame=true&no-bg=true/">
+  </a>
+</div><hr>
+
 ## Skills
 
 > [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
