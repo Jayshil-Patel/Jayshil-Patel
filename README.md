@@ -1,10 +1,15 @@
 # Hi there 👋, my name is Jayshil Patel and I love to code
 
-> I am currently pursuing B.Tech
-> 
-> I am looking forward to gaining some work experience in the Web Development
-> 
-> Constantly upgrading myself compels me to add different skills to my arsenal, hence, along the course of time I will be upgrading my knowledge of different stacks and learn back end development 
+> B.Tech engineering student interested in tackling key
+current socio-technological challenges using electronics
+and computational technologies; and aspiring for significant
+opportunities with the leading national and international
+contributors in technological developments in the near
+future. A skilled collaborative team leader and contributor
+with well-respected subject research and problem-solving
+abilities who is self-reliant in keeping up with current
+technology trends, applications and usages in Electronics,
+Artificial Intelligence and Web DevOps.
 
 ## Profile Stats
 
