@@ -19,13 +19,6 @@ Artificial Intelligence and Web DevOps.
 
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayshil-Patel&layout=compact&theme=tokyonight&hide=Makefile&langs_count=10&exclude_repo=Xilinx-Verilog)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"> 
-<div align="center">
-  <h4>🏆 Github Profile Trophies</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=Jayshil-Patel&theme=monokai&row=1&no-frame=true&no-bg=true/">
-  </a>
-</div><hr>
 
 ## Skills
 
@@ -53,8 +46,6 @@ Artificial Intelligence and Web DevOps.
 > [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
 <!-- > [![Git]](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/downloads) -->
 
-# Recent Activity
-[![Jayshil's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jayshil-Patel&custom_title=Jayshil's%20recent%20activity&hide_border=true&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## Contact Info
