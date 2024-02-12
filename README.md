@@ -1,16 +1,6 @@
-# Hi there 👋, my name is Jayshil Patel and I love to code
+# Hi there 👋, my name is Jayshil and I love AI
 
-> B.Tech engineering student interested in tackling key
-current socio-technological challenges using electronics
-and computational technologies; and aspiring for significant
-opportunities with the leading national and international
-contributors in technological developments in the near
-future. A skilled collaborative team leader and contributor
-with well-respected subject research and problem-solving
-abilities who is self-reliant in keeping up with current
-technology trends, applications and usages in Electronics,
-Artificial Intelligence and Web DevOps.
-
+> Dynamic and innovative Engineer with a proven track record in Machine Learning and a commitment to ongoing professional development. Currently pursuing a Master of Engineering degree at the University of Ottawa, seeking opportunities to leverage expertise in machine learning algorithms to drive impactful projects and solutions.
 ## Profile Stats
 
 > ![Profile visits](https://komarev.com/ghpvc/?username=Jayshil-Patel&color=blue)
